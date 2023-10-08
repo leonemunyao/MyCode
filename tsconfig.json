@@ -1,5 +1,7 @@
 {
-  "files": [],
+  "files": [
+    "src/views/Home.vue"
+  ],
   "references": [
     {
       "path": "./tsconfig.node.json"
