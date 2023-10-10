@@ -1,6 +1,6 @@
 <template>
 <header>
-    <nav class="navbar">
+    <nav>
         <img src="../assets/" alt="">
         <router-link to="/" class="navbar-item">Home</router-link>
         <router-link to="/about" class="navbar-item">About</router-link>

@@ -6,7 +6,7 @@ import type NavbarVue from './components/Navbar.vue';
 <template>
   <header>
 
-    <div class="wrapper">
+    <div class="bg-gray-900 text text-gray-100">
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
@@ -22,7 +22,7 @@ import type NavbarVue from './components/Navbar.vue';
 </template>
 
 <style scoped>
-header {
+ header {
   background-color: rgb(218, 199, 199);
   position: fixed;
   top: 0;
