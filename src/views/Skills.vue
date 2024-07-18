@@ -1,12 +1,12 @@
 <template>
-    <div class="portfolio">
-      <h1>This is an portfolio page</h1>
+    <div class="skills">
+      <h1>This is skills page</h1>
     </div>
   </template>
   
   <style>
   @media (min-width: 1024px) {
-    .portfolio {
+    .skills {
       min-height: 100vh;
       display: flex;
       align-items: center;

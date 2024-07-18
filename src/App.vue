@@ -11,8 +11,11 @@ import type NavbarVue from './components/Navbar.vue';
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/portfolio">Portfolio</RouterLink>
+        <RouterLink to="/skills">Skills</RouterLink>
+        <RouterLink to="/projects">Projects</RouterLink>
+        <RouterLink to="/blog">Blog</RouterLink>
         <RouterLink to="/contact">Contact</RouterLink>
+
       </nav>
     </div>
   </header>
